@@ -4,7 +4,9 @@ Hunau的有线校园网是可以通过两种方式认证登录，一种是连上
 如上所述，使用任一种方式认证后，用另一种认证方式挤下前一种方式后会获得五分钟的网络使用时间。使用脚本进行校园网网页认证，每隔3-5分钟发送一次请求，同时配合上具有被挤后能够自动重连的功能的校园网认证软件（mentohust），就能实现白嫖校园网。测速是100Mbps，比花钱买的网的速度还快。。只是每隔五分钟（取决于你脚本设置的时间间隔）会断一下网，用来下载、看视频直播没啥问题，有用过来玩LOL，每隔五分钟会掉1，2秒的样子，除非你正好在打团，不然没影响。
 
 **MacOS mentohust**：https://github.com/vincenttsang/mentohust-macos
+
 **linux mentohust**：https://www.bilibili.com/video/BV1bW411r7MP/ 参考这个视频
+
 **windows**：https://www.bilibili.com/video/BV1Vt411U7Sp/ 参考这个视频
 ## 网页认证脚本
 
